@@ -9,17 +9,37 @@
 }
 body{
 	font-family: 'Open Sans', sans-serif;
-	color: #333;
+	color:#000;
 }
 h1{
     font-family: 'Open Sans', sans-serif;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     text-transform: uppercase;
-    color: #242424;
-  ;
+    color: #000;
 }
+
 #logo{
     float: left;
     margin-left: 40px;
     font-size: 280%;
 }
+#menu{
+    float:right;
+    font-size: 100%;
+}
+#menu li{
+float: right;
+margin-right: 35px;
+letter-spacing: 3px;
+list-style-type: none;
+}
+#menu a{
+    text-decoration: none;
+    color: #000;
+}
+#menu, #logo{
+    line-height: 90px;
+  }
+  #menu a:hover{
+      border-bottom: 1px solid;
+  }
