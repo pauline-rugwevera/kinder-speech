@@ -77,3 +77,35 @@ list-style-type: none;
         .our-mission p{
             margin-top: 30px;
         }
+
+        /* footer */
+        footer{
+            background-color: #F1F1F1
+        }
+        .container  {
+            height: 300px;
+        text-align: center;
+        
+        }
+        .container ul{
+            list-style-type: none;
+            display: inline-block;
+            line-height: 30px;
+            padding: 0 90px 0 90px;
+        
+        }
+        .contact-us {
+            text-align: left;
+        
+        }
+        
+        .opening-hours {
+            text-align: center;
+        
+        }
+        
+        .social-media-icon {
+            text-align: right;
+        
+        }
+        
