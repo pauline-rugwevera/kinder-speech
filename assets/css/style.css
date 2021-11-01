@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Source+Sans+Pro:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Source+Sans+Pro:wght@300&display=swap');
+
 *{
     text-decoration: none;
     margin: 0;
@@ -19,9 +20,11 @@ h1{
 }
 
 #logo{
+    font-family: 'Open Sans', sans-serif;
     float: left;
     margin-left: 40px;
     font-size: 280%;
+    text-transform: uppercase;
 }
 #menu{
     float:right;
