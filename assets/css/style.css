@@ -70,9 +70,10 @@ list-style-type: none;
           text-align: center;
       }
       p{
-       
         font-family: 'Open Sans', sans-serif;
         font-size: 15px;
         line-height: 30px;
-        font-weight: ;
+        }
+        .our-mission p{
+            margin-top: 30px;
         }
