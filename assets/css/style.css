@@ -84,14 +84,18 @@ list-style-type: none;
         }
         .container  {
             height: 300px;
-        text-align: center;
+            text-align: center;
+            
+        
         
         }
         .container ul{
             list-style-type: none;
             display: inline-block;
             line-height: 30px;
+            margin-top: 30px;;
             padding: 0 90px 0 90px;
+            font-size: 15px;
         
         }
         .contact-us {
