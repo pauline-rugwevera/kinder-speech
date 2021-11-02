@@ -46,9 +46,13 @@ list-style-type: none;
   #menu a:hover{
       border-bottom: 1px solid;
   }
+  #hero-container{
+      height: 400px;
+
+  }
 
   #hero-image{
-     height:400px;
+     height:300px;
      width: 100%;
      
  }
