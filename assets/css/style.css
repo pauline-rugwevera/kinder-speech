@@ -27,7 +27,7 @@ h1{
     text-transform: uppercase;
 }
 #menu{
-    float:right;
+    /* float:right; */
     font-size: 100%;
 }
 #menu li{
@@ -41,22 +41,24 @@ list-style-type: none;
     color: #000;
 }
 #menu, #logo{
-    line-height: 80px;
+    line-height: 100px;
   }
   #menu a:hover{
       border-bottom: 1px solid;
   }
   #hero-container{
-      height: 300px;
-      background-repeat: no-repeat;
-
+      clear: both;
   }
-
-  #hero-image{
-     height:300px;
-     width: 100%;
-     
+  
+  
+   #hero-image{
+    
+     height: 400px;
+    width: 100%;
+      
  }
+
+
  /* mission */
  #mission{
      height: 400px;
@@ -118,3 +120,38 @@ list-style-type: none;
         
         }
         
+
+        /* programs */
+      
+        #programs {
+            height: 1400px;
+            clear: both;
+            background-color: #D8E3E7;
+          }
+          #programs h2{
+              padding-bottom: 20px;
+          }
+          .programs-header{
+              padding: 10px 90px 40px 0;
+              text-align: center;
+          }
+          
+          .program-one, .program-two, .program-three {
+            height: 400px;
+            padding-top: 20px;
+            /* line-height: 30px; */
+          }
+          
+          .feature-one, .feature-three, .feature-two-content {
+            float: left;
+            width: 40%;
+            margin-left: 50px;
+          }
+          
+          .feature-one-content, .feature-three-content, .feature-two {
+            float: right;
+            width: 40%;
+            margin-right: 80px;
+            padding-left: 30px;
+            
+          }
