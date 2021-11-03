@@ -191,6 +191,15 @@ list-style-type: none;
             width: 40%;
             margin-right: 80px;
           }
+
+          /* contact */
+
+
+#form-section{
+    height: 400px;
+    clear: both;
+    background-color: green;
+}
           
 
          
