@@ -44,7 +44,8 @@ list-style-type: none;
     line-height: 100px;
   }
   #menu a:hover{
-      border-bottom: 1px solid;
+      border-bottom: 1px solid #5AA897;
+     
   }
   #hero-container{
       clear: both;
