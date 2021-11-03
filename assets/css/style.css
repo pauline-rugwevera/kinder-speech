@@ -87,7 +87,10 @@ list-style-type: none;
 
         /* footer */
         footer{
-            background-color: #F1F1F1
+            background-color: #F1F1F1;
+          
+        
+            
         }
         .container  {
             height: 300px;
@@ -126,6 +129,7 @@ list-style-type: none;
         #programs {
             height: 1400px;
             clear: both;
+            line-height: 50px;
             background-color: #D8E3E7;
           }
           #programs h2{
@@ -139,7 +143,7 @@ list-style-type: none;
           .program-one, .program-two, .program-three {
             height: 400px;
             padding-top: 20px;
-            /* line-height: 30px; */
+         
           }
           
           .feature-one, .feature-three, .feature-two-content {
@@ -155,3 +159,31 @@ list-style-type: none;
             padding-left: 30px;
             
           }
+
+
+          /* about us */
+          #about-us {
+            height: 600px;
+            clear: both;
+            line-height: 50px;
+            padding-top: 30px;
+            background-color: #D8E3E7;
+          }
+          /* .about{
+            height: 400px;
+            padding-top: 20px;
+          } */
+          .about-image{
+            float: left;
+            /* width: 40%; */
+            width: 40%;
+            margin-left: 50px;
+          }
+          .about-content{
+            float: right;
+            width: 40%;
+            margin-right: 80px;
+          }
+          
+
+         
