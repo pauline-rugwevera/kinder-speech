@@ -176,10 +176,7 @@ list-style-type: none;
             padding-top: 30px;
             background-color: #D8E3E7;
           }
-          /* .about{
-            height: 400px;
-            padding-top: 20px;
-          } */
+        
           .about-image{
             float: left;
             /* width: 40%; */
@@ -193,13 +190,60 @@ list-style-type: none;
           }
 
           /* contact */
+          #form-section{
+              height: 600px;
+              clear: both;
+            background-color: #D8E3E7;
+           
+          }
 
 
-#form-section{
-    height: 400px;
-    clear: both;
-    background-color: green;
+
+
+.contact-form{
+ 
+    margin-right: 150px;
+    float: left;
+    /* margin: 150px 10% 0 0; */
+    color: black;
+  
+ 
+  
+    max-width: 400px;
+    position: absolute;
+    display: block;
+    padding: 10px;
+    left: 30%;
+    text-align: center;
+    border-radius: 10px;
+
 }
-          
+   
+.input-text{
+     
+        background-color: transparent;
+        color: white;
+        border: 1px solid black;
+        border-radius: 10px;
+        margin: 5px 0 20px;
+        width: 100%;
+        height: 25px;
+}
+#message{
+    background-color: transparent;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5px 0 20px;
+    width: 100%;
+    height: 100px;
+}
+.submit{
+    background-color: rgba(255, 255, 255, 0.87);
+    color: black;
+    text-align: center;
+    font-size: 100%;
+    padding: 17px 36px 17px 36px;
+    border-radius: 3px;
 
-         
+}
