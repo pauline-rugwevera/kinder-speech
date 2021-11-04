@@ -12,28 +12,23 @@ body{
 	font-family: 'Open Sans', sans-serif;
 	color:#000;
 }
-h1{
-    font-family: Lato, sans-serif;
+
+#logo{
+    font-family: 'Lato', sans-serif;
     letter-spacing: 3px;
+    float: left;
+    margin-left: 40px;
+    font-size:250%;
+    text-transform: uppercase;
     color: #000;
 }
 
-#logo{
-    font-family: 'Open Sans', sans-serif;
-    float: left;
-    margin-left: 40px;
-    font-size: 280%;
-    text-transform: lowercase;
-}
-#menu{
-    /* float:right; */
-    font-size: 100%;
-}
 #menu li{
 float: right;
 margin-right: 35px;
 letter-spacing: 3px;
 list-style-type: none;
+font-size: 100%;
 }
 #menu a{
     text-decoration: none;
@@ -79,11 +74,12 @@ list-style-type: none;
     }
     
     h2{
+        font-family: 'Open Sans', sans-serif
         text-transform: uppercase;
         letter-spacing: 3px;
-        color: #333;
+        color: #000;
         text-decoration: none;
-          text-align: center;
+        text-align: center;
       }
       p{
         font-family: 'Open Sans', sans-serif;
