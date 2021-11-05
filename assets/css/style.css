@@ -24,12 +24,15 @@ body{
 }
 
 #menu li{
+font-family: 'Lato', sans-serif;
 float: right;
 margin-right: 35px;
 letter-spacing: 3px;
 list-style-type: none;
 font-size: 100%;
 text-transform: uppercase;
+
+
 }
 #menu a{
     text-decoration: none;
