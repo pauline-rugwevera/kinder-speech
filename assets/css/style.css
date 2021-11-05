@@ -37,18 +37,28 @@ font-size: 100%;
 #menu, #logo{
     line-height: 100px;
   }
-  #menu a:hover{
-      border-bottom: 1px solid #5AA897;
+#menu a:hover{
+    border-bottom: 1px solid #5AA897;
      
+}
+#hero-container{
+  clear: both;
+  height: 400px;
+  width: 100%;
   }
-  #hero-container{
-      clear: both;
-      height: 400px;
-      width: 100%;
-  }
-   #hero-image{
-     height: 400px;
-    width: 100%;  
+  #hero-image{
+  height: 400px;
+  width: 100%;  
+ }
+#cover-text{
+   background-color: #3c8246;
+   width: 250px;
+   height:100px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 0 5px 10px 10px;
+  margin-left: 30px;
+  bottom: 100px;
  }
 
 
@@ -128,6 +138,7 @@ font-size: 100%;
             line-height: 50px;
             padding-top: 30px;
             background-color: #D8E3E7;
+           
           }
         
           .about-image{
@@ -136,39 +147,39 @@ font-size: 100%;
             width: 40%;
             margin-left: 50px;
           }
-          .about-content{
-            float: right;
-            width: 40%;
-            margin-right: 80px;
+.about-content{
+  float: right;
+  width: 40%;
+  margin-right: 80px;
           }
 
 
           /* contact */
- #form-section{
-    height: 600px;
-    clear: both;        
+#form-section{
+  height: 600px;
+  clear: both;        
  }
 
 .contact-form{
-    float: left;
-    color: black;
-    max-width: 400px;
-    position: absolute;
-    display: block;
-    padding: 10px;
-    left: 30%;
-    text-align: center;
-    background-color: #D8E3E7;
+  float: left;
+  color: black;
+  max-width: 400px;
+  position: absolute;
+  display: block;
+   padding: 10px;
+  left: 30%;
+  text-align: center;
+  background-color: #D8E3E7;
 }
    
 .input-text{
-        background-color: transparent;
-        color: white;
-        border: 1px solid black;
-        border-radius: 10px;
-        margin: 5px 0 20px;
-        width: 100%;
-        height: 25px;
+  background-color: transparent;
+  color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 5px 0 20px;
+  width: 100%;
+  height: 25px;
 }
 #message{
     background-color: transparent;
@@ -193,16 +204,16 @@ font-size: 100%;
    background-color: #EDEDED;
     
 }
-.social-media{
-    text-align: center;
+
+.social-networks{
     display: flex;
     justify-content: center;
     padding-top: 40px;
     
     
 }
-.social-media li{
+.social-networks li {
     list-style-type: none;
     padding: 0 40px 0 40px;
-
+  
 }
