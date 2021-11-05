@@ -43,8 +43,7 @@ font-weight: bold;
     line-height: 100px;
   }
 #menu a:hover{
-    /* border-bottom: 1px solid #5AA897; */
-    border-bottom: 1px solid #D8E3E7;
+ border-bottom: 1px solid #D8E3E7;
      
 }
 #hero-container{
@@ -62,11 +61,10 @@ font-weight: bold;
      height: 300px;
      margin-top: 80px;
      margin-bottom: 70px;
-     background-color: #F6F5F;
+     
  }
  .our-mission{
      width: 60%;
-    /* border: 2px solid green; */
     border: 2px solid #D8E3E7;
     text-align: center;
     margin-left: 20%;
@@ -75,13 +73,15 @@ font-weight: bold;
     }
     
     h2{
-        font-family: 'Open Sans', sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 3px;
-        color: #000;
-        text-decoration: none;
-        text-align: center;
+      font-family: 'Open Sans', sans-serif;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      color: #000;
+      text-decoration: none;
+      text-align: center;
+      font-weight: 500;
       }
+
       p{
         font-family: 'Open Sans', sans-serif;
         font-size: 15px;
