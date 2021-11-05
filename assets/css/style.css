@@ -132,7 +132,7 @@ font-size: 100%;
 
 
           /* about us */
-          #about-us {
+          #about {
             height: 600px;
             clear: both;
             line-height: 50px;
@@ -200,17 +200,17 @@ font-size: 100%;
 }
 /* footer */
 #footer{
-    height: 100px;
+    height: 150px;
    background-color: #EDEDED;
     
 }
 
 .social-networks{
-    display: flex;
+     display: flex;
     justify-content: center;
     padding-top: 40px;
-    
-    
+     
+     
 }
 .social-networks li {
     list-style-type: none;
