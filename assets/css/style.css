@@ -39,7 +39,8 @@ text-transform: uppercase;
     line-height: 100px;
   }
 #menu a:hover{
-    border-bottom: 1px solid #5AA897;
+    /* border-bottom: 1px solid #5AA897; */
+    border-bottom: 1px solid #D8E3E7;
      
 }
 #hero-container{
@@ -51,17 +52,6 @@ text-transform: uppercase;
   height: 400px;
   width: 100%;  
  }
-#cover-text{
-   background-color: #3c8246;
-   width: 250px;
-   height:100px;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  padding: 0 5px 10px 10px;
-  margin-left: 30px;
-  bottom: 100px;
- }
-
 
  /* mission */
  #mission{
