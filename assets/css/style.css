@@ -153,7 +153,8 @@ font-weight: bold;
           /* contact */
 #form-section{
   height: 600px;
-  clear: both;        
+  clear: both;
+  background-color: #D8E3E7;       
  }
 
 .contact-form{
@@ -165,7 +166,7 @@ font-weight: bold;
    padding: 10px;
   left: 30%;
   text-align: center;
-  background-color: #D8E3E7;
+ 
 }
    
 .input-text{
