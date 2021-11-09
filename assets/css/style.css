@@ -156,16 +156,21 @@ font-weight: bold;
   clear: both;
   background-color: #D8E3E7;       
  }
+ .form-image{
+   width: 40%;
+   float: right;
+   margin-right: 80px;
+
+ }
 
 .contact-form{
-  /* float: left; */
-  float: right;
+ float: left;
   color: black;
   max-width: 400px;
-  /* position: absolute; */
+  position: absolute;
   display: block;
    padding: 10px;
-  /* left: 30%; */
+  left: 30%;
   text-align: center;
  
 }
