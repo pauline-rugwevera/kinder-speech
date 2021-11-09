@@ -153,6 +153,7 @@ font-weight: bold;
           /* contact */
 #form-section{
   height: 600px;
+  padding-top: 30px;
   clear: both;
   background-color: #D8E3E7;  
      
@@ -164,6 +165,7 @@ font-weight: bold;
  
 
  }
+
 
 .contact-form{
  float: left;
