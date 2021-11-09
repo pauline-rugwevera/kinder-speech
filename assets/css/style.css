@@ -166,11 +166,13 @@ font-weight: bold;
 .contact-form{
  float: left;
   color: black;
-  max-width: 400px;
+  /* max-width: 400px; */
+  /* max-width: 40%; */
+  width: 40%;
   position: absolute;
   display: block;
    padding: 10px;
-  left: 30%;
+  /* left: 30%; */
   text-align: center;
  
 }
