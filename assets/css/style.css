@@ -158,13 +158,14 @@ font-weight: bold;
  }
 
 .contact-form{
-  float: left;
+  /* float: left; */
+  float: right;
   color: black;
   max-width: 400px;
-  position: absolute;
+  /* position: absolute; */
   display: block;
    padding: 10px;
-  left: 30%;
+  /* left: 30%; */
   text-align: center;
  
 }
