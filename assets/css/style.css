@@ -154,12 +154,14 @@ font-weight: bold;
 #form-section{
   height: 600px;
   clear: both;
-  background-color: #D8E3E7;       
+  background-color: #D8E3E7;  
+     
  }
  .form-image{
    width: 40%;
    float: right;
-   margin-right: 80px;
+   margin-right: 40px;
+ 
 
  }
 
@@ -168,7 +170,10 @@ font-weight: bold;
   color: black;
   /* max-width: 400px; */
   /* max-width: 40%; */
+  /* width: 40%; */
   width: 40%;
+  margin-left: 60px;
+  /* margin-right: 20px; */
   position: absolute;
   display: block;
    padding: 10px;
