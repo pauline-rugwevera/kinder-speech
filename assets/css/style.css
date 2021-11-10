@@ -247,6 +247,43 @@ font-weight: bold;
    .our-mission{
      width: 65%;
    }
+   /* programs */
+   
+#programs{
+  height: 1400px;
+  line-height: 40px;
+  font-size: large;
+}
+.program-one, .program-two, .program-three{
+  height: 400px;
+  padding-bottom: 40px;
+ 
+}
+.feature-one, .feature-three{
+  margin-left: 30px;
+  width: 50%;
+  
+}
+.feature-one-content, .feature-three-content{
+  margin-right: 25px;
+  width: 40%;
+  padding: 5px;
+}
+.feature-two{
+  margin-right: 70px;
+  width: 40%;
+}
+.feature-two-content{
+  margin-left: 30px;
+  width: 40%;
+}
+
+  
+}
+
+
+
+
 
 
  }
