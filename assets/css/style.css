@@ -278,22 +278,30 @@ font-weight: bold;
   width: 40%;
 }
 
+
 }
 /* responsive design for ipad */
  @media screen and (max-width: 1200px){
   #about{
     height: 660px;
   }
- .about-content{
-   width: 35%;
-   margin-right: 65px;
-   padding: 20px;
- }
+ 
  .about-image{
    width: 40%;
 
  }
-
+ .about-content{
+  width: 40%;
+  margin-right: 65px;
+  padding: 20px;
+}
 
  } 
+
+ @media screen and (max-width: 1100px){
+  .about-content{
+    width: 35%;
+  }
+
+ }
   
