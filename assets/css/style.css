@@ -232,7 +232,7 @@ font-weight: bold;
   
 }
  /* media queries */
- @media screen and (max-width: 900px) {
+ @media screen and (max-width: 960px) {
   /* responsive mobile nav bar */
    #menu{
      clear: left;
@@ -278,13 +278,21 @@ font-weight: bold;
   width: 40%;
 }
 
-  
 }
-
-
-
-
-
+/* responsive design for ipad
+@media screen and (max-width: 1200px){
+  #about{
+    height: 660px;
+  }
+ .about-content{
+   width: 30%;
+   margin-right: 90px;
+ }
+ .about-image{
+   width: 40%;
 
  }
+
+
+ } */
   
