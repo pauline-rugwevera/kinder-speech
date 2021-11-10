@@ -279,14 +279,15 @@ font-weight: bold;
 }
 
 }
-/* responsive design for ipad
-@media screen and (max-width: 1200px){
+/* responsive design for ipad */
+ @media screen and (max-width: 1200px){
   #about{
     height: 660px;
   }
  .about-content{
-   width: 30%;
-   margin-right: 90px;
+   width: 35%;
+   margin-right: 65px;
+   padding: 20px;
  }
  .about-image{
    width: 40%;
@@ -294,5 +295,5 @@ font-weight: bold;
  }
 
 
- } */
+ } 
   
