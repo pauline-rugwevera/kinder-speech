@@ -277,6 +277,31 @@ font-weight: bold;
   margin-left: 30px;
   width: 40%;
 }
+/* about ipad */
+#about{
+ width: 100%;
+
+}
+
+
+.about-image{
+  width: 50%;
+
+}
+#about img{
+  width: 100%;
+
+}
+about-content{
+  width: 44%;
+  margin-right: 65px;
+  padding: 20px;
+  line-height: 20px;
+ 
+}
+
+
+ 
 
 
 }
