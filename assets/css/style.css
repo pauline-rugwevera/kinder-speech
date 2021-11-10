@@ -147,7 +147,7 @@ font-weight: bold;
   float: right;
   width: 45%;
   margin-right: 60px;
-          }
+    }
 
 
           /* contact */
@@ -231,7 +231,17 @@ font-weight: bold;
     padding: 0 40px 0 40px;
   
 }
-/* media queries
-@media screen and (max -width: 1200px) {
+ /* media queries */
+ @media screen and (max-width: 900px) {
+  /* responsive mobile nav bar */
+   #menu{
+     clear: left;
+     float: left;
+     margin-left: 35px;
+     line-height: 20px;
+     padding-bottom: 15px;
+   }
+
+
+ }
   
-} */
