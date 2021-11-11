@@ -306,4 +306,20 @@ font-weight: bold;
    #about img{
      width: 100%;
    }
+   /* contact */
+
+   .contact-form{
+     width: 30%;
+     margin-left: 30px;
+   }
+   .form-image{
+     width: 35%;
+    margin-right: 160px;
+    text-align: center;
+   }
+
+
+
+
+
  }
