@@ -178,7 +178,7 @@ font-weight: bold;
   width: 35%;
   margin-left: 60px;
  
-  position: absolute;
+  /* position: absolute; */
   display: block;
    padding: 35px;
   
@@ -371,7 +371,25 @@ font-weight: bold;
    .about-image{
      margin-left: 72px;
    }
-  }
+    
+   
+   }
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
 
   @media screen and (max-width: 400px){
    
@@ -386,5 +404,19 @@ font-weight: bold;
     margin-left: 27px;
     }
   }
+
+
+  /* contact */
+  @media screen and (max-width: 964px){
+  .form-image img{
+   
+    /* width: 100%;
+    height: auto; */
+
+    margin-right: 60px;
+    
+    
+  }
+}
 
    
