@@ -376,14 +376,11 @@ font-weight: bold;
   @media screen and (max-width: 400px){
    
     .about-content{
-      margin-left: 27px;
-    
-    
+      margin-left: 44px;
     }
     .about-content h2{
       padding-top: 3px;
       padding-bottom: 3px;
-   
     }
     .about-image{
     margin-left: 27px;
