@@ -406,19 +406,13 @@ font-weight: bold;
     .about-image{
     margin-left: 27px;
     }
-    #form-section{
-      height: 830px;
-    }
+  
     .contact-form{
       margin-left: 2px;
       text-align: center;
      
     }
-    .form-image{
-     width: 80%;
-     margin-left: 25px;
-  
-    }
+    
    
     
     
@@ -432,7 +426,8 @@ font-weight: bold;
   /* contact */
   @media screen and (max-width: 600px){
     #form-section{
-      height: 1000px;
+      height: 1100px;
+    
     }
     .contact-form{
       margin-left: 2px;
@@ -440,13 +435,11 @@ font-weight: bold;
       height: auto;
     }
     .form-image{
-     width: 80%;
-     margin-left: 25px;
+     width: 100%;
   
     }
    
-    
-  
 }
+
 
    
