@@ -141,7 +141,7 @@ font-weight: bold;
         
           .about-image{
             float: left;
-            /* width: 40%; */
+        
             width: 45%;
             margin-left: 50px;
           }
@@ -332,12 +332,12 @@ font-weight: bold;
 
  }
 
- /* @media screen and (max-width: 1000px){
+ @media screen and (max-width: 1000px){
    #about{
      height: 1200px;
      padding-bottom: 0;
    }
-   /* #about img{
+    #about img{
      width: 100%;
    }
    .about-image{
@@ -357,4 +357,4 @@ font-weight: bold;
    }
 
 
- }  */
+ }  
