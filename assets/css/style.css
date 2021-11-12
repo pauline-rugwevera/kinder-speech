@@ -458,16 +458,29 @@ font-weight: bold;
   padding-top: 67px;
  
 }
-.feature-three{
-  width: 40%;
+.feature-one,.feature-two-content,.feature-three{
   margin-left: 30px;
 }
 
-.feature-one-content,.feature-two-content,.feature-three-content {
+.feature-one-content,.feature-three-content{
+  margin-right:35px;
+
+
+}
+
+.feature-one-content,
+.feature-two-content,
+.feature-three-content 
+.feature-three,
+.feature-two,
+.feature-one{
   width: 40%;
+
 }
 
 }
+
+
 @media screen and (max-width:700px){
   #programs{
     height: 1940px;
