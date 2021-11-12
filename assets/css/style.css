@@ -311,68 +311,37 @@ font-weight: bold;
      padding-bottom: 30px;
      padding-top: 20px;
    }
-   /* contact */
-   .form-image {
-     width: 50%;
-     margin-right: 17px;
-   }
-   .contact-form{
-     width: 30%;
-   }
+  
 
 
  }  
- @media screen and (max-width: 960px){
-   .form-image{
-     width: 45%;
-     margin-right:96px;
-   }
-   .contact-form{
-     width: 30%;
-   }
-
- }
- @media screen and (max-width: 900px){
+ 
+ @media screen and (max-width:1001px){
    #form-section{
      height: 1256px;
  
    }
-   .form-image {
+   .form-image{
      width: 75%;
-   
-    
-   }
-   #form-section img{
-    float: left;
-    margin: 0 auto;
-   
+     margin: 0 auto;
+     float: none;
+     padding-top: 15px;
 
-    clear: both;
+   }
+  
+   #form-section img{
     width: 100%;
    }
    .contact-form{
      width: 75%;
+     float: none;
+     margin: 0 auto;
     
-     display: block;
+   
    }
  }
- @media screen and (max-width: 700px){
-  
-
-
-   .form-image{
-     width: 80%;
-    
-   }
-   .contact-form{
-     width: 80%;
-     margin-left: 20px;
-   }
-   #form-section img{
-     width: 100%;
-     margin-left: 45px
-   }
- }
+ 
+ 
 
 
 
@@ -418,79 +387,21 @@ font-weight: bold;
     margin-left: 27px;
     }
   
-    .contact-form{
-      margin-left: 2px;
-      text-align: center;
-     
-    }
   
-
   }
 
 
   
 
-@media screen and (max-width: 850px){
- 
-/* .feature-one,.feature-two-content,.feature-three{
-  margin-left: 30px;
-}
-
-.feature-one-content,.feature-three-content{
-  margin-right:35px;
 
 
-}
-
-.feature-one-content,
-.feature-two-content,
-.feature-three-content 
-.feature-three,
-.feature-two,
-.feature-one{
-  width: 40%;
-
-} */
-
-}
 
 
-@media screen and (max-width:750px){
-  /* #programs{
-    height:2114px;
-  }
- 
- 
-  .feature-one-content,.feature-two-content,.feature-three-content{
-    width:80%;
-    padding: 20px;
-    text-align: center;
-  }
-  .feature-one, .feature-two, .feature-three{
-    width: 90%;
-    float: none;
-    margin-left: 20px;
-    
-  } */
 
-}
 
-@media screen and (max-width:400px){
-  /* .feature-one-content,
-  .feature-two-content,
-  .feature-three-content{
-    text-align: center;
-    margin-left: 10px;
-    width:75%;
-    position: static;
-  }
-  
-  .programs-header{
-  padding: 12px;
-  } */
 
-}
- /* trial */
+
+/* programs */
  
 @media screen and (max-width:1000px){
   #programs{
