@@ -163,11 +163,14 @@ font-weight: bold;
   padding-top: 10px;
   clear: both;
   background-color: #D8E3E7;  
+  
 
  /* for referencing from(https://www.codegrepper.com/) */
   /* min-height: 100vh; /* will cover the 100% of viewport */
- overflow: hidden; */
-
+ 
+  min-height: 100vh; 
+  overflow: hidden;
+ 
 
      
  }
@@ -390,6 +393,23 @@ font-weight: bold;
      width: 75%;
     
      display: block;
+   }
+ }
+ @media screen and (max-width: 700px){
+  
+
+
+   .form-image{
+     width: 80%;
+    
+   }
+   .contact-form{
+     width: 80%;
+     margin-left: 20px;
+   }
+   #form-section img{
+     width: 100%;
+     margin-left: 45px
    }
  }
 
