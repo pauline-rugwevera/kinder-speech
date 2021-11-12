@@ -97,6 +97,10 @@ font-weight: bold;
             clear: both;
             line-height: 50px;
             background-color: #D8E3E7;
+            /* for referencing from(https://www.codegrepper.com/) */
+  min-height: 100vh; /* will cover the 100% of viewport */
+  overflow: hidden;
+ 
           }
           #programs h2{
               padding-bottom: 20px;
@@ -264,6 +268,8 @@ font-weight: bold;
   height: 1400px;
   line-height: 40px;
   font-size: large;
+
+  
 }
 .program-one, .program-two, .program-three{
   height: 400px;
@@ -494,13 +500,16 @@ font-weight: bold;
     
   }
 
-  
-   
-  
-  
+}
 
+@media screen and (max-width:400px){
+  .feature-one-content,
+  .feature-two-content,
+  .feature-three-content{
+    text-align: center;
 
-
+ padding-right: 3px;
+  }
 
 }
 
