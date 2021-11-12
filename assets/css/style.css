@@ -424,6 +424,9 @@ font-weight: bold;
    #about{
    max-height: 1200px;
    }
+   #about h2{
+     padding: 20px
+   }
    #about img{
      width: 100%;
    }
