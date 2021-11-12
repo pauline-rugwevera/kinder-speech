@@ -424,12 +424,18 @@ font-weight: bold;
    #about{
    max-height: 1200px;
    }
+   #about img{
+     width: 100%;
+   }
    .about-content{
-     margin-left: 72px;
-     line-height: 70px;
+     width: 80%;
+      margin-left:47px;
+     /* line-height: 70px;  */
    }
    .about-image{
-     margin-left: 72px;
+     margin-left: 47px;
+     width: 80%;
+   
    }
    /* contact */
    /* #form-section{
