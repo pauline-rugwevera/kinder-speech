@@ -318,28 +318,29 @@ font-weight: bold;
 
  /* about */
  @media screen and (max-width:1150px){
-   #about{
-     height: 1100px ;
-   }
-   #about img{
-     width: 100%;
-  
-   }
-   .about-image{
-     width: 75%;
-   float: none;
-   margin: 0 auto;
-  
-   }
-
-   .about-content{
+  #about{
+    height: 1100px ;
+  }
+  #about img{
+    width: 100%;
+ 
+  }
+  .about-image{
     width: 75%;
-    margin: 0 auto;
-    float: none;
-    padding-top: 15px;
-   }
+  float: none;
+  margin: 0 auto;
+ 
+  }
 
- }
+  .about-content{
+   width: 75%;
+   margin: 0 auto;
+   float: none;
+   padding-top: 15px;
+  }
+
+}
+
 
 
    
