@@ -368,6 +368,30 @@ font-weight: bold;
    }
 
  }
+ @media screen and (max-width: 900px){
+   #form-section{
+     height: 1256px;
+ 
+   }
+   .form-image {
+     width: 75%;
+   
+    
+   }
+   #form-section img{
+    float: left;
+    margin: 0 auto;
+   
+
+    clear: both;
+    width: 100%;
+   }
+   .contact-form{
+     width: 75%;
+    
+     display: block;
+   }
+ }
 
 
 
