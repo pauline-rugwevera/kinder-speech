@@ -274,53 +274,25 @@ font-weight: bold;
  
 
 
- @media screen and (max-width: 1130px){
-   .about-content{
-     width: 40%;
-     margin-right: 30px;
-   }
-   
-   #about img{
-     width: 100%;
-   }
-   
-  
-
- }
-
- @media screen and (max-width: 1000px){
-   #about{
-     height: 1200px;
-     padding-bottom: 0;
-   }
-    #about img{
-     width: 100%;
-   }
-   .about-image{
-     width: 80%;
-     margin-left: 89px;
-   }
-   .about-content{
-     width: 80%;
-     float: left;
-     margin-left: 89px;
-     line-height: 25px;
-   }
-   
-   .about-content h2{
-     padding-bottom: 30px;
-     padding-top: 20px;
-   }
-  
-
-
- }  
  
- @media screen and (max-width:1001px){
+   
+  
+
+ 
+
+ 
+ 
+
+
+  
+ /* contact */
+ 
+ @media screen and (max-width:1000px){
    #form-section{
      height: 1256px;
  
    }
+
    .form-image{
      width: 75%;
      margin: 0 auto;
@@ -337,58 +309,48 @@ font-weight: bold;
      float: none;
      margin: 0 auto;
     
-   
    }
+
+
+
+
  }
- 
- 
 
-
-
-
-
-
-
-
- @media screen and (max-width: 800px){
+ /* about */
+ @media screen and (max-width:1150px){
    #about{
-   max-height: 1200px;
-   }
-   #about h2{
-     padding: 20px
+     height: 1100px ;
    }
    #about img{
      width: 100%;
-   }
-   .about-content{
-     width: 80%;
-      margin-left:47px;
-     /* line-height: 70px;  */
+  
    }
    .about-image{
-     margin-left: 47px;
-     width: 80%;
-   
-   }
-   
-   
+     width: 75%;
+   float: none;
+   margin: 0 auto;
+  
    }
 
-  @media screen and (max-width: 400px){
+   .about-content{
+    width: 75%;
+    margin: 0 auto;
+    float: none;
+    padding-top: 15px;
+   }
+
+ }
+
+
    
-    .about-content{
-      margin-left: 44px;
-    }
-    .about-content h2{
-      padding-top: 3px;
-      padding-bottom: 3px;
-    }
-    .about-image{
-    margin-left: 27px;
-    }
+   
+   
+
+  
+    
   
   
-  }
+  
 
 
   
