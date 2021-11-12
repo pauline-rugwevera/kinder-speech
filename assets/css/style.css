@@ -115,13 +115,13 @@ font-weight: bold;
           .feature-one, .feature-three, .feature-two-content {
             float: left;
             width: 40%;
-            margin-left: 50px;
+            margin-left: 80px;
           }
           
  .feature-one-content, .feature-three-content, .feature-two {
      float: right;
      width: 40%;
-    margin-right: 100px;
+    margin-right: 83px;
      padding-left: 30px;
             
           }
@@ -228,11 +228,6 @@ font-weight: bold;
    background-color: #EDEDED;
   padding-bottom: 0;
 
-
-
-
-
-    
 }
 
 .social-networks{
@@ -481,22 +476,24 @@ font-weight: bold;
 }
 
 
-@media screen and (max-width:700px){
+@media screen and (max-width:750px){
   #programs{
-    height: 1940px;
+    height:2114px;
   }
  
  
   .feature-one-content,.feature-two-content,.feature-three-content{
     width:80%;
     padding: 20px;
+    text-align: center;
   }
   .feature-one, .feature-two, .feature-three{
     width: 90%;
     float: none;
     margin-left: 20px;
-   
+    
   }
+
   
    
   
