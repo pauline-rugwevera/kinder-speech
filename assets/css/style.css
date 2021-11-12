@@ -98,9 +98,8 @@ font-weight: bold;
             line-height: 50px;
             background-color: #D8E3E7;
             /* for referencing from(https://www.codegrepper.com/) */
-           min-height: 100vh; /* will cover the 100% of viewport */
-            overflow: hidden;
- 
+           /* min-height: 100vh; /* will cover the 100% of viewport */
+            /* overflow: hidden;  */
           }
           #programs h2{
               padding-bottom: 20px;
@@ -265,40 +264,14 @@ font-weight: bold;
    .our-mission{
      width: 65%;
    }
-   /* programs */
+
    
-#programs{
-  height: 1400px;
-  line-height: 40px;
-  font-size: large;
 
-  
 }
-.program-one, .program-two, .program-three{
-  height: 400px;
-  padding-bottom: 40px;
+
+
+
  
-}
-.feature-one, .feature-three{
-  margin-left: 30px;
-  width: 50%;
-  
-}
-.feature-one-content, .feature-three-content{
-  margin-right: 25px;
-  width: 40%;
-  padding: 5px;
-}
-.feature-two{
-  margin-right: 70px;
-  width: 40%;
-}
-.feature-two-content{
-  margin-left: 30px;
-  width: 40%;
-}
-
- }
 
 
  @media screen and (max-width: 1130px){
@@ -459,7 +432,7 @@ font-weight: bold;
 
 @media screen and (max-width: 850px){
  
-.feature-one,.feature-two-content,.feature-three{
+/* .feature-one,.feature-two-content,.feature-three{
   margin-left: 30px;
 }
 
@@ -477,13 +450,13 @@ font-weight: bold;
 .feature-one{
   width: 40%;
 
-}
+} */
 
 }
 
 
 @media screen and (max-width:750px){
-  #programs{
+  /* #programs{
     height:2114px;
   }
  
@@ -498,12 +471,12 @@ font-weight: bold;
     float: none;
     margin-left: 20px;
     
-  }
+  } */
 
 }
 
 @media screen and (max-width:400px){
-  .feature-one-content,
+  /* .feature-one-content,
   .feature-two-content,
   .feature-three-content{
     text-align: center;
@@ -514,42 +487,41 @@ font-weight: bold;
   
   .programs-header{
   padding: 12px;
-  }
+  } */
 
 }
  /* trial */
  
-@media screen and (max-width:980px){
+@media screen and (max-width:1000px){
   #programs{
-    height:2206px;
+    height: 2700px;
   }
-  #programs img{
-    width: 100%;
+  .programs-header{
+padding: 5px;
+  }
+ #programs img{
+   width: 100%;
+  
+ }
+ .program-one, .program-two,.program-three{
+   height: 800px;
+ }
+ .feature-one, .feature-two, .feature-three{
+   width: 80%;
+   margin: 0 auto;
+  
+   float: none;
+ }
+ .feature-one-content, .feature-two-content, .feature-three-content{
+   width: 70%;
+float: none;
+   margin: 0 auto;
+ }
 
-  }
-  .program-one, .program-two, .program-three{
-    height: 660px;
-  }
- 
- 
-  .feature-one-content,.feature-two-content,.feature-three-content{
-    width:70%;
-    padding: 10px;
-   
-     margin: 0 auto;
- 
-    float: none;
- 
- 
-  }
-  .feature-one, .feature-two, .feature-three{
-    width: 70%;
-    float: none;
-    margin: 0 auto;
-    /* margin-left: 100px; */
-    float: none;
-    
-  }
 
-}
+
+  } 
+
+ 
+
  
