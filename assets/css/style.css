@@ -390,6 +390,9 @@ font-weight: bold;
      padding-top: 30px;
 
    }
+
+   /* programs */
+
     
    
    }
@@ -439,6 +442,30 @@ font-weight: bold;
   
     }
    
+}
+
+
+@media screen and (max-width: 850px){
+  #program{
+    height: 1800px;
+  }
+#programs img{
+  width: 90%;
+  display: block;
+ 
+}
+.program-two{
+  padding-top: 67px;
+ 
+}
+
+.feature-one-content,.feature-two-content,.feature-three-content {
+  width: 40%;
+}
+
+}
+@media screen and (max-width: 850px){
+
 }
 
 
