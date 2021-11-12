@@ -98,8 +98,8 @@ font-weight: bold;
             line-height: 50px;
             background-color: #D8E3E7;
             /* for referencing from(https://www.codegrepper.com/) */
-  min-height: 100vh; /* will cover the 100% of viewport */
-  overflow: hidden;
+           min-height: 100vh; /* will cover the 100% of viewport */
+            overflow: hidden;
  
           }
           #programs h2{
@@ -507,8 +507,13 @@ font-weight: bold;
   .feature-two-content,
   .feature-three-content{
     text-align: center;
-
- padding-right: 3px;
+    margin-left: 10px;
+    width:75%;
+    position: static;
+  }
+  
+  .programs-header{
+  padding: 12px;
   }
 
 }
