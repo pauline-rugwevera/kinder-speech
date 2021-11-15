@@ -153,24 +153,26 @@ font-weight: bold;
           }
 
 
-          /* about us */
-          #about {
-            height: 400px;
-            clear: both;
-            line-height: 50px;
-            padding-top: 30px;
-            background-color: #D8E3E7;
-            padding-bottom: 150px;
+ /* about us */
+  #about {
+  height: 400px;
+
            
+  clear: both;
+  line-height: 50px;
+  padding-top: 30px;
+  background-color: #D8E3E7;
+  padding-bottom: 76px;
+/* for referencing from(https://www.codegrepper.com/) */
+  /* min-height: 100vh; 
+  overflow: hidden; */
+  }      
            
-          }
-        
-          .about-image{
-            float: left;
-        
-            width: 45%;
-            margin-left: 50px;
-          }
+.about-image{
+  float: left;
+  width: 45%;
+   margin-left: 50px;
+}
 .about-content{
   float: right;
   width: 35%;
@@ -498,7 +500,7 @@ padding: 10px;
 
  /* about */
  @media screen and (max-width:1150px){
-  #about{
+  /* #about{
     height: 1100px ;
   }
   #about img{
@@ -517,7 +519,34 @@ padding: 10px;
    margin: 0 auto;
    float: none;
    padding-top: 15px;
+  } */
+
+
+  /* end */
+  #about{
+ height: fit-content;
   }
+  #about img{
+    width: 100%;
+ 
+  }
+  .about-image{
+    width: 75%;
+  float: none;
+  margin: 0 auto;
+ 
+  }
+  .about-content{
+    width: 75%;
+    margin: 0 auto;
+    float: none;
+    padding-top: 15px;
+  }
+
+
+
+ 
+
 
 }
 
@@ -547,6 +576,7 @@ padding: 10px;
 /* programs */
  
 @media screen and (max-width:1000px){
+  
   /* #programs{
     height: 2700px;
    
