@@ -87,7 +87,8 @@ font-weight: bold;
      width: 60%;
     border: 2px solid #D8E3E7;
     text-align: center;
-    margin-left: 20%;
+    /* margin-left: 20%; */
+    margin: 0 auto;
     padding: 20px;
   
     }
@@ -279,11 +280,18 @@ font-weight: bold;
      line-height: 20px;
      padding-bottom: 15px;
    }
-   #mission{
+   /* #mission{
      height: 400px;
    }
    .our-mission{
-     width: 65%;
+     width: 65%; */
+     .our-mission{
+       width: 100%;
+       margin: 0 auto;
+     }
+
+
+
    }
 
    
