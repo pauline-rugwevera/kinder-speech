@@ -298,7 +298,7 @@ font-weight: bold;
       margin-right: 11px;
     }
   }
-  
+
   @media screen and (max-width:406px){
     #logo{
       float: left;
@@ -310,6 +310,28 @@ font-weight: bold;
    #menu li{
      margin-right: 5px;
    }
+  }
+  @media screen and (max-width:384px){
+    #logo{
+      float: left;
+      width: 50%;
+      margin-left: 30px;
+  
+    }
+    #menu{
+     text-align: left;
+     float:left;
+     display: flex;
+     flex-direction: column-reverse;
+     margin-top: 10px;
+     margin-left: 30px;
+    }
+    #menu li{
+     padding: 6px;
+     letter-spacing: 2px;
+     font-size: medium;
+
+    }
   }
       
      
