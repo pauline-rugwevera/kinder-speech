@@ -155,7 +155,7 @@ font-weight: bold;
 
  /* about us */
   #about {
-  height: 400px;
+  height: 500px;
   min-height: calc(106vh - 406px);     
   clear: both;
   line-height: 50px;
