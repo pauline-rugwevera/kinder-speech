@@ -186,6 +186,8 @@ font-weight: bold;
           /* contact */
 #form-section{
   height: 600px;
+  
+  min-height: calc(106vh - 406px);
   padding-top: 10px;
   clear: both;
   background-color: #D8E3E7;  
@@ -193,10 +195,10 @@ font-weight: bold;
 
  /* for referencing from(https://www.codegrepper.com/) */
   /* min-height: 100vh; /* will cover the 100% of viewport */
- 
+/*  
   min-height: 100vh; 
   overflow: hidden;
- 
+  */
 
      
  }
@@ -472,7 +474,7 @@ padding: 10px;
  /* contact */
  
  @media screen and (max-width:1000px){
-   #form-section{
+   /* #form-section{
      height: 1256px;
  
    }
@@ -494,7 +496,28 @@ padding: 10px;
      margin: 0 auto;
     
    }
+ */
+ #form-section{
+height: fit-content;
 
+}
+
+.form-image{
+  width: 75%;
+  margin: 0 auto;
+  float: none;
+  padding-top: 15px;
+
+}
+#form-section img{
+  width: 100%;
+ }
+ .contact-form{
+   width: 75%;
+   float: none;
+   margin: 0 auto;
+  
+ }
 
 
 
