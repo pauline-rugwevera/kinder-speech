@@ -23,6 +23,8 @@ body{
     color: #000;
 }
 
+
+ 
 #menu li{
 font-family: 'Lato', sans-serif;
 float: right;
@@ -34,7 +36,7 @@ text-transform: uppercase;
 font-weight: bold;
 
 
-}
+} 
 #menu a{
     text-decoration: none;
     color: #000;
@@ -274,24 +276,44 @@ font-weight: bold;
  @media screen and (max-width: 960px) {
   /* responsive mobile nav bar */
    #menu{
+
      clear: left;
      float: left;
      margin-left: 35px;
      line-height: 20px;
      padding-bottom: 15px;
+     margin-right: 10px;
    }
-    /* #mission{
-     height: 400px;
-   } */
    
-     /* .our-mission{
-       width: 65%;
-       margin: 0 auto;
-     } */
-
-
-
    }
+   /* nav bar */
+   @media screen and (max-width: 520px){
+     #logo{
+       margin-left: 15px;
+     }
+    #menu{
+      margin-left: 15px;
+    }
+    #menu li{
+      margin-right: 11px;
+    }
+  }
+      
+     
+  
+     
+
+   
+   
+ 
+  
+
+
+
+
+
+
+
 
 
 /* mission smallers screens */
