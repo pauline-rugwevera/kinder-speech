@@ -547,8 +547,9 @@ padding: 10px;
 /* programs */
  
 @media screen and (max-width:1000px){
-  #programs{
+  /* #programs{
     height: 2700px;
+   
   }
   .programs-header{
 padding: 5px;
@@ -571,10 +572,37 @@ padding: 5px;
 float: none;
    margin: 0 auto;
  }
+ */
 
-
+ /* end */
+  #programs{
+   height: fit-content;
+   
+  } 
+  .program-one, .program-two,.program-three{
+  height: fit-content;
+  padding-bottom: 20px;
+  }
+  #programs img{
+    width: 100%;
+   
+  }
+  .feature-one, .feature-two, .feature-three{
+    width: 80%;
+    margin: 0 auto;
+   
+    float: none;
+  }
+  .feature-one-content, .feature-two-content, .feature-three-content{
+    width: 70%;
+ float: none;
+    margin: 0 auto;
 
   } 
+  .programs-header{
+  margin-left: 25px;
+      }
+}
 
  
 
