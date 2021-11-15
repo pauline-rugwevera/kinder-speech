@@ -186,8 +186,9 @@ font-weight: bold;
           /* contact */
 #form-section{
   height: 600px;
+    min-height: calc(126vh - 523px);
   
-  min-height: calc(106vh - 406px);
+
   padding-top: 10px;
   clear: both;
   background-color: #D8E3E7;  
