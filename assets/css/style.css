@@ -250,6 +250,7 @@ font-weight: bold;
 #thank-you{
   background-color: #D8E3E7;
   height: 500px;
+  clear: both;
   padding-top: 20px;
 }
 #thank-you h3{
