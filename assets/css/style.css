@@ -184,8 +184,6 @@ font-weight: bold;
 #form-section{
   height: 600px;
     min-height: calc(126vh - 523px);
-  
-
   padding-top: 10px;
   clear: both;
   background-color: #D8E3E7;  
@@ -330,9 +328,25 @@ font-weight: bold;
   }
   @media screen and (max-width:384px){
     #logo{
-      float: left;
+      /* float: left;
       width: 50%;
       margin-left: 30px;
+      
+  */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 180%;
+  font-family: 'Lato', sans-serif;
+  margin-right: 30px;
+  margin-left: 30px;
+  font-weight: bold;
+
+
+
+
+
   
     }
     #menu{
