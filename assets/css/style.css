@@ -249,9 +249,13 @@ font-weight: bold;
 }
 #thank-you{
   background-color: #D8E3E7;
-  height: 600px;
+  height: 510px;
   clear: both;
   padding-top: 20px;
+  min-height: 100vh; 
+  overflow: hidden;
+  
+  /* min-height: calc(120vh - 406px) */
 
 }
 #thank-you p{
@@ -530,7 +534,7 @@ padding: 10px;
     
    }
  */
- #form-section{
+ #form-section ,#thank-you{
 height: fit-content;
 
 }
@@ -542,7 +546,7 @@ height: fit-content;
   padding-top: 15px;
 
 }
-#form-section img{
+#form-section img, #thank-you img{
   width: 100%;
  }
  .contact-form{
