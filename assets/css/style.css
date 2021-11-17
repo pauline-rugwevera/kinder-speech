@@ -254,17 +254,29 @@ font-weight: bold;
   padding-top: 20px;
 
 }
-#thank-you h3{
-  font-family: inherit;
+#thank-you p{
+  /* font-family: inherit;
   font-size: 15px;
   width: 60%;
   border: 2px solid black;
   text-align: center;
-  /* margin-left: 20%; */
-  margin: 0 auto;
-  padding: 20px;
+   margin-left: 20%;
+  margin: 0 auto; */
+
+  float: left;
+  color: inherit;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  width: 40%;
+  margin-left: 60px;
+  display: block;
+   padding: 35px;
+  text-align: center;
 
 }
+
+
+
 
 
 
