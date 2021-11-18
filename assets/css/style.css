@@ -298,6 +298,20 @@ font-weight: bold;
     padding: 0 40px 0 40px;
   
 }
+#error-page{
+  clear: both;
+  background-color: #D8E3E7;
+}
+
+
+
+
+
+
+
+
+
+
  /* media queries */
  
  @media screen and (max-width: 960px) {
