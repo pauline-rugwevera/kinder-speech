@@ -51,6 +51,7 @@ font-weight: bold;
  #hero-container{
   clear: both;
   width: 100%;
+  overflow: hidden;
  
 
 
@@ -66,18 +67,6 @@ font-weight: bold;
 
  } 
  
-
- 
-
-
-
-
-
-
-
-
-
-
  /* mission */
  #mission{
      height: 300px;
@@ -135,7 +124,6 @@ font-weight: bold;
           .program-one, .program-two, .program-three {
             height: 300px;
             padding-top: 20px;
-         
           }
           
           .feature-one, .feature-three, .feature-two-content {
@@ -150,7 +138,35 @@ font-weight: bold;
     margin-right: 83px;
      padding-left: 30px;
             
-          }
+     }
+
+     /* zoom */
+     /* from W3C CSS animations */
+     #hero-image,
+      .feature-one, .feature-two, .feature-three,
+       .about-image,  
+       .form-image{
+       animation-name: all_image-zoom;
+      animation-duration: 2s;
+      animation-direction: alternate;
+      animation-iteration-count: 2;
+  
+
+     }
+     @keyframes all_image-zoom {
+      from{
+          transform: scale(1);
+      }
+      to{
+          transform: scale(1.1);
+      }
+  } 
+
+ 
+
+
+
+
 
 
  /* about us */
@@ -162,15 +178,16 @@ font-weight: bold;
   padding-top: 30px;
   background-color: #D8E3E7;
   padding-bottom: 76px;
-/* for referencing from(https://www.codegrepper.com/) */
-  /* min-height: 100vh; 
-  overflow: hidden; */
+   /* for referencing from(https://www.codegrepper.com/) 
+   min-height: 100vh;  */
+   overflow: hidden; 
   }      
            
 .about-image{
   float: left;
   width: 45%;
    margin-left: 50px;
+  
 }
 .about-content{
   float: right;
@@ -187,6 +204,8 @@ font-weight: bold;
   padding-top: 10px;
   clear: both;
   background-color: #D8E3E7;  
+  overflow: hidden;
+
   
 
  /* for referencing from(https://www.codegrepper.com/) */
@@ -198,11 +217,17 @@ font-weight: bold;
 
      
  }
+
+
+
+
  .form-image{
    width: 40%;
    float: right;
    margin-right: 68px;
    margin-top: 40px;
+
+  
   
  }
 
