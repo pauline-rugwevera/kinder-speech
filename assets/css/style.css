@@ -299,8 +299,11 @@ font-weight: bold;
   
 }
 #error-page{
-  clear: both;
+ height: 500px;
   background-color: #D8E3E7;
+  padding-top: 10px;
+  clear: both;
+
 }
 
 
