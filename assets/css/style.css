@@ -305,13 +305,8 @@ font-weight: bold;
   clear: both;
 
 }
-#error-page p{
-  
-    font-family: 'Open Sans', sans-serif;
-    font-size: 15px;
-    line-height: 30px;
+#error-page >p{
     text-align: center;
-    
 }
 
 
