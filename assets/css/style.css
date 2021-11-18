@@ -92,6 +92,16 @@ font-weight: bold;
       text-decoration: none;
       text-align: center;
       font-weight: 500;
+      animation-duration: 4s;
+      animation-name: moveRight
+      }
+      @keyframes moveRight {
+        from {
+          transform: translateX(0);
+        }
+        to {
+          transform: translateX(10px);
+        }
       }
 
       p{
@@ -115,15 +125,21 @@ font-weight: bold;
           }
           #programs h2{
               padding-bottom: 20px;
+            
+            
+             
           }
+        
           .programs-header{
               padding: 10px 90px 40px 0;
               text-align: center;
+              animation-name: none;
           }
           
           .program-one, .program-two, .program-three {
             height: 300px;
             padding-top: 20px;
+          
           }
           
           .feature-one, .feature-three, .feature-two-content {
