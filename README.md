@@ -26,19 +26,13 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 ### Future Features
 * Testimonial page where users can provide testimonies of the services
 ## Technologies
-HTML
-
-CSS
-
-Github
-
-Github pages
-
-Gitpod
-
-Google fonts
-
-Font awesome
+* HTML
+* CSS
+* Github
+* Github pages
+* Gitpod
+* Google fonts
+* Font awesome
 
 
 
