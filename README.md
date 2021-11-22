@@ -3,7 +3,7 @@
 Kinder Speech website is designed for parents with children in need of speech, language, articulation, and communication skills which includes Autism Spectrum Disorder,Cerebral Palsy,Autism Spectrum Disorder.
 On this website, I also stated the type of programs that Kinder Speech offers to their clients.
 
-![Home page](assets/images/Screenshot_71.png)
+![Home page](assets/images/homepage.png)
 
 [Link to live website](https://pauline-rugwevera.github.io/kinder-speech/)
 # UX
@@ -16,17 +16,12 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 ### Returning users
 * As a returning user I would want to find out if there is a testimonial section.
 ## Features
-### Navigation
-The site features a navigation bar making it easier to navigate to any page. The right side clearly shows to the user the name of the site while  Home, Programs, About, Contact apperas to the right of the navigation bar
+
+* The site features a navigation bar making it easier to navigate to any page. The right side clearly shows to the user the name of the site while  Home, Programs, About, Contact apperas to the right of the navigation bar
+* The website features a mission section that states to the users the soul purpose of the site as well as the target audience.
 
 
-![Nav bar](/assets/images/nav.png)
 
-### Mission
-The website features a mission section that states to the users the soul purpose of the site as well as the target audience.
-
-
-![mission](/assets/images/mission76.png)
 
 
 
