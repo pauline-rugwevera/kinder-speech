@@ -25,6 +25,21 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 * A contact form where users can fill in their details and message should they have something to ask or feedback
 ### Future Features
 * Testimonial page where users can provide testimonies of the services
+## Technologies
+HTML
+
+CSS
+
+Github
+
+Github pages
+
+Gitpod
+
+Google fonts
+
+Font awesome
+
 
 
 
