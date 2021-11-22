@@ -17,10 +17,10 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 * As a returning user I would want to find out if there is a testimonial section.
 ## Features
 ### Navigation
-The site features a navigation bar making it easier to navigate to any page.
+The site features a navigation bar making it easier to navigate to any page. The right side clearly shows to the user the name of the site while  Home, Programs, About, Contact apperas to the right of the navigation bar
 
 
-![Home page](./assets/images/nav.png)
+![Home page](/assets/images/nav.png)
 
 
 
