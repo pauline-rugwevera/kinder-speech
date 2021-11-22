@@ -20,7 +20,13 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 The site features a navigation bar making it easier to navigate to any page. The right side clearly shows to the user the name of the site while  Home, Programs, About, Contact apperas to the right of the navigation bar
 
 
-![Home page](/assets/images/nav.png)
+![Nav bar](/assets/images/nav.png)
+
+### Mission
+The website features a mission section that states to the users the soul purpose of the site as well as the target audience.
+
+
+![mission](/assets/images/mission76.png)
 
 
 
