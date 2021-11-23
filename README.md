@@ -66,7 +66,7 @@ I encountered the following bugs while developing the website:
   - [Contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauline-rugwevera.github.io%2Fkinder-speech%2Fcontact.html)
 * CSS
   - No errors were found after checking the css with Jigsaw validator.
-  ![css validator]
+  ![css validator](assets/images/Screenshot_77.png)
   
 
 
