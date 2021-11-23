@@ -52,10 +52,23 @@ The site was also tested on smaller devices which are Samsung A51 and Samsung A1
 I encountered the following bugs while developing the website:
 
 * The hero image was shrinking from screens 1100px wide and below.
-* There was too much gaps between programs and about images and text.
+* There was too much gap between programs and about images and text.
 * The form could not perform as expected.
+* There were some missing closing tags.
 
     However the bugs have been corrected
+### Validator Testing
+* HTML
+  - No errors were found after validating with W3C validator except the homepage with one warning that states that there must be a section heading in the hero container section, which I actually did not intend to put. Check:
+  - [Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauline-rugwevera.github.io%2Fkinder-speech%2Findex.html)
+  - [Programs](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauline-rugwevera.github.io%2Fkinder-speech%2Fprograms.html)
+  - [About](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauline-rugwevera.github.io%2Fkinder-speech%2Fabout.html)
+  - [Contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauline-rugwevera.github.io%2Fkinder-speech%2Fcontact.html)
+* CSS
+  - No errors were found after checking the css with Jigsaw validator.
+  ![css validator]
+  
+
 
 
 
