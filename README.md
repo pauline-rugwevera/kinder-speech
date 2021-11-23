@@ -33,6 +33,29 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 * Gitpod
 * Google fonts
 * Font awesome
+## Testing
+I tested the website using the following browsers:
+* Chrome
+* Mozilla Firefox
+* Microsoft edge
+With Chrome and Microsoft edge, the following emulated devices were checked using responsive design
+* Galaxy S5
+* iPhone 5/SE
+* iPhone 6/7/8 Plus
+* iPad
+* iPad Pro
+* Nest Hub max
+
+The site was also tested on smaller devices which are Samsung A51 and Samsung A12.The header, programs, about and contact were also checked to make sure they are easy to understand and navigate. The form was also tested to make sure the submit button works well,all text fields to accept text and email field to only accept emails.
+
+### Bugs
+I encountered the following bugs while developing the website:
+
+* The hero image was shrinking from screens 1100px wide and below.
+* There was too much gaps between programs and about images and text.
+* The form could not perform as expected.
+
+    However the bugs have been corrected
 
 
 
