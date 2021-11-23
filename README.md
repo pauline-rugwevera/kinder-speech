@@ -74,6 +74,39 @@ Kinder Speech was deployed as follows:
 * Go to "Settings" (the tab on the right)
 * On the left hand side select "Pages" 
 * Select the "main" branch as the source. Then it shows you a green confirmation "Your site is published at......" with the URL.
+## Credits
+### Content
+The following websites were used for the research of this project:
+ * https://www.interactivemetronome.com/clients-landing-page/apd
+ * https://www.autismcommunity.org.au/about.html
+ * http://www.speechlearn.com/programs
+ * https://blog.learnfasthq.com/why-the-benefit-of-fast-forword-are-long-lasting
+ * https://www.gemmlearning.com/programs/fast-forword/
+ * https://advancedbrain.com/about-tlp/
+ * https://www.thespeechacademy.ie/
+ ### Media
+ Images used in this project are from [Adobe stock](https://stock.adobe.com/ie/)
+ Photographers in particular:
+ * [Africa Studio](https://stock.adobe.com/ie/contributor/293313/africa-studio?load_type=author&prev_url=detail)
+ * [Photographee.eu](https://stock.adobe.com/ie/contributor/200793652/photographee-eu?load_type=author&prev_url=detail)
+ * [alexeytsurkan](https://stock.adobe.com/ie/Library/urn:aaid:sc:EU:a3255284-c0fb-428a-9496-4bc330e0c242?asset_id=233434074)
+ ### Code
+ Hero image code is from [https://www.w3schools.com/howto/howto_css_hero_image.asp]
+
+ Image animations is from[https://www.w3schools.com/css/css3_animations.asp]
+
+ H2 animations code is from[https://cssreference.io/property/animation-name/]
+
+ ### Acknowledgements
+ * Love Running project for step by step guidance
+ * [https://tinypng.com/] for optimising of images
+ * [https://www.w3schools.com/] 
+ * My Mentor's feedback and guidance
+
+
+
+
+
 
   
 
