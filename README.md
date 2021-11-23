@@ -38,6 +38,7 @@ I tested the website using the following browsers:
 * Chrome
 * Mozilla Firefox
 * Microsoft edge
+
 With Chrome and Microsoft edge, the following emulated devices were checked using responsive design
 * Galaxy S5
 * iPhone 5/SE
@@ -67,6 +68,15 @@ I encountered the following bugs while developing the website:
 * CSS
   - No errors were found after checking the css with Jigsaw validator.
   ![css validator](assets/images/Screenshot_77.png)
+## Deployment
+Kinder Speech was deployed as follows:
+* Open the repository on GitHub
+* Go to "Settings" (the tab on the right)
+* On the left hand side select "Pages" 
+* Select the "main" branch as the source. Then it shows you a green confirmation "Your site is published at......" with the URL.
+
+  
+
   
 
 
