@@ -17,12 +17,34 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 * As a returning user I would want to find out if there is a testimonial section
 
 ## Features
-* The site features a navigation bar making it easier to navigate to any page. The right side clearly shows to the user the name of the site while Home, Programs, About, Contact apperas to the right of the navigation bar
+* The site features a navigation bar making it easier to navigate to any page. 
+* The right side clearly shows to the user the name of the site.
+* While Home, Programs, About, Contact appears to the right of the navigation bar
+
+![navigation bar](assets/images/Screenshot_78.png)
+
 * The website features a mission section that states to the users the soul purpose of the site as well as the target audience.
-* A footer that contains social media links for users who would want to follow on social media
-* A programs page with all programs and full description of each
-* An about page that tells the users the purpose of the site and what they get in return as well as location.
+* The manner in which clients are treated as well as the manner of the staff.
+![mission](assets/images/Screenshot_79.png)
+
+* A programs page with all programs and full description of each.
+* Each program clearly shows how it benefits the clients
+
+![programs](assets/images/Screenshot_81.png)
+![programs](assets/images/Screenshot_82.png)
+* An about page that tells the users the purpose of the site 
+* What the users get in return as well as location.
+
+![About](assets/images/Screenshot_83.png)
 * A contact form where users can fill in their details and message should they have something to ask or feedback
+* They will need to fill in their first and last name, email then the message they would want to send.
+
+![Contact](assets/images/Screenshot_84.png)
+* A footer that contains social media links for users who would want to follow on social media.
+* Available for users who would want to find Kinder Speech on facebook, Instagram and Twitter
+
+![Footer](assets/images/Screenshot_80.png)
+
 ### Future Features
 * Testimonial page where users can provide testimonies of the services
 ## Technologies
@@ -86,6 +108,7 @@ The following websites were used for the research of this project:
  * https://www.thespeechacademy.ie/
  ### Media
  Images used in this project are from [Adobe stock](https://stock.adobe.com/ie/)
+ 
  Photographers in particular:
  * [Africa Studio](https://stock.adobe.com/ie/contributor/293313/africa-studio?load_type=author&prev_url=detail)
  * [Photographee.eu](https://stock.adobe.com/ie/contributor/200793652/photographee-eu?load_type=author&prev_url=detail)
