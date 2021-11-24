@@ -118,8 +118,6 @@ The following websites were used for the research of this project:
 
  * The image animations code is from [Image animations](https://www.w3schools.com/css/css3_animations.asp)
 
- * The h2 animations is from [H2 animations code](https://cssreference.io/property/animation-name/)
-
  * Social network icons style code is from [Social network icons color](https://stackoverflow.com/)
 
  ### Acknowledgements
