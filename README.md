@@ -114,11 +114,13 @@ The following websites were used for the research of this project:
  * [Photographee.eu](https://stock.adobe.com/ie/contributor/200793652/photographee-eu?load_type=author&prev_url=detail)
  * [alexeytsurkan](https://stock.adobe.com/ie/Library/urn:aaid:sc:EU:a3255284-c0fb-428a-9496-4bc330e0c242?asset_id=233434074)
  ### Code
- Hero image code is from [https://www.w3schools.com/howto/howto_css_hero_image.asp]
+ * The hero image code is from [Hero image code](https://www.w3schools.com/howto/howto_css_hero_image.asp)
 
- Image animations is from[https://www.w3schools.com/css/css3_animations.asp]
+ * The image animations code is from [Image animations](https://www.w3schools.com/css/css3_animations.asp)
 
- H2 animations code is from[https://cssreference.io/property/animation-name/]
+ * The h2 animations is from [H2 animations code](https://cssreference.io/property/animation-name/)
+
+ * Social network icons style code is from [Social network icons color](https://stackoverflow.com/)
 
  ### Acknowledgements
  * Love Running project for step by step guidance
