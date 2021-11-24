@@ -84,18 +84,6 @@ h2 {
   text-decoration: none;
   text-align: center;
   font-weight: 500;
-  animation-duration: 2s;
-  animation-name: moveRight
-}
-
-@keyframes moveRight {
-  from {
-    transform: translateX(0);
-  }
-
-  to {
-    transform: translateX(10px);
-  }
 }
 
 p {
