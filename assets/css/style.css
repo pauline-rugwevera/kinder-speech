@@ -217,7 +217,7 @@ p {
 
 .input-text {
   background-color: transparent;
-  color: white;
+  color: #000;
   border: 1px solid black;
   border-radius: 10px;
   margin: 5px 0 20px;
@@ -227,7 +227,7 @@ p {
 
 #message {
   background-color: transparent;
-  color: white;
+  color: #000;
   border: 1px solid black;
   border-radius: 10px;
   margin: 5px 0 20px;
