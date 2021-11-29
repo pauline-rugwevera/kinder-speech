@@ -25,8 +25,7 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 
 * The website features a mission section that states to the users the soul purpose of the site as well as the target audience.
 * The manner in which clients are treated as well as the manner of the staff.
-![mission](assets/images/Screenshot_79.png)
-
+![mission](assets/images/Screenshot_88.png)
 * A programs page with all programs and full description of each.
 * Each program clearly shows how it benefits the clients
 
@@ -43,7 +42,7 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 * A footer that contains social media links for users who would want to follow on social media.
 * Available for users who would want to find Kinder Speech on facebook, Instagram and Twitter
 
-![Footer](assets/images/Screenshot_80.png)
+![Footer](assets/images/Screenshot_87.png)
 
 ### Future Features
 * Testimonial page where users can provide testimonies of the services
