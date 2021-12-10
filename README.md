@@ -43,35 +43,56 @@ Colors used in this project are:
 
 
 ## Features
-* The site features a navigation bar making it easier to navigate to any page. 
-* The right side clearly shows to the user the name of the site.
-* While Home, Programs, About, Contact appears to the right of the navigation bar
+This website consists of 6 pages of which 4 of these can be accessed using the navigation menu, the other 2 are 404 error page and submission confirmation page. The foloowing are the features found on the site:
+### Navigation bar
+ The navigation bar feature makes it easier to navigate to any page.The left side shows the logo of the site that can as well be used to navigate to the home page. The right side shows other menu links or pages that can be accessed.
+ #### Navigation
+ * Left site of the navigation bar contains a logo that one can use to navigate to the home page
+ * The right side consists of 4 page links  which are:
+   - Home
+   - Programs
+   - About
+   - Contact
+
 
 ![navigation bar](assets/images/Screenshot_78.png)
 
-* The website features a mission section that states to the users the soul purpose of the site as well as the target audience.
-* The manner in which clients are treated as well as the manner of the staff.
-![mission](assets/images/Screenshot_88.png)
-* A programs page with all programs and full description of each.
-* Each program clearly shows how it benefits the clients
+### Home
+* Hero image
+  - Entails the soul purpose of the site
+![hero-image](assets/images/Screenshot_89.png)
 
+* Mission
+  - The website features a mission section that states to the users the soul purpose of the site as well as the target audience.The manner in which clients are treated as well as the manner of the staff
+ 
+![mission](assets/images/Screenshot_88.png)
+## Programs
+* A programs page with all programs offered and full description of each.
+* Shows three images that describes the type of the program, with a detailed description 
+* Each program clearly shows how it benefits the clients.
 ![programs](assets/images/Screenshot_81.png)
 ![programs](assets/images/Screenshot_82.png)
-* An about page that tells the users the purpose of the site 
-* What the users get in return as well as location.
+## About
+* A page that gives users more information Kinder Speech including things like location and benefits.
+* Consist of an image on the left side of the page and about information on the right side.
 
 ![About](assets/images/Screenshot_83.png)
-* A contact form where users can fill in their details and message should they have something to ask or feedback
-* They will need to fill in their first and last name, email then the message they would want to send.
+## Contact
+* Consist of a contct form on the left side of the page and image on the right
+* The form where users can fill in their details and message should they have something to ask or feedback
+* They will need to fill in their first and last name, email then the message they would want to send and press a submit button.
 
 ![Contact](assets/images/Screenshot_84.png)
+## Footer
 * A footer that contains social media links for users who would want to follow on social media.
-* Available for users who would want to find Kinder Speech on facebook, Instagram and Twitter
+* It is at the bottom of every page and opens in a seperate browser.
 
 ![Footer](assets/images/Screenshot_87.png)
 
-### Future Features
+## Future Features
 * Testimonial page where users can provide testimonies of the services
+* Price page
+
 ## Technologies
  HTML
  * As a structure language to give the site, a structure
