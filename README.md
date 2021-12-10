@@ -7,6 +7,19 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 
 [Link to live website](https://pauline-rugwevera.github.io/kinder-speech/)
 # UX
+## Site owner's goals
+The reason behind the creation of this website is to present the public with the speech and language programs for children. It shows exactly the types of programs offered to help the children speak, the manner of the classes as well well as the staff. The owner finally presents how users can get in touch about more information.
+## User goals
+### New user goals:
+* User is able to find information and mission about the speech and language site.
+* User is able to easily find each program description, in detail.
+* User is able to find how exactly these programs help them.
+* User can easily contact the owner
+
+
+
+
+
 ## User Stories
 ### New users
 * As a first time user of the site, I want to easily tell the mission and purpose of the site.
