@@ -8,7 +8,10 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 [Link to live website](https://pauline-rugwevera.github.io/kinder-speech/)
 # UX
 ## Site owner's goals
-The reason behind the creation of this website is to present the public with the speech and language programs for children. It shows exactly the types of programs offered to help the children speak, the manner of the classes as well well as the staff. The owner finally presents how users can get in touch about more information.
+* To present speech and language programs for children to the public and how it improves them to speak the manner of the classes as well well as the staff. 
+* Users to easily navigate the site
+* Connect with all the customers including the potential ones
+* Make sure users find it easy to ask any  questions or give feedback
 ## User goals
 ### New user goals
 * User is able to find information and mission about the speech and language site.
@@ -92,6 +95,7 @@ This website consists of 6 pages of which 4 of these can be accessed using the n
 ## Future Features
 * Testimonial page where users can provide testimonies of the services
 * Price page
+* Timetable of the classes
 
 ## Technologies
  HTML
@@ -113,20 +117,47 @@ Google fonts
  * For social networks icons
 
 ## Testing
-I tested the website using the following browsers:
-* Chrome
-* Mozilla Firefox
-* Microsoft edge
+### Functionality
+I used Chrome developers tools for development, responsive design and testing was also performed on Microsoft edge
+### Compatibilty
+With Chrome and Microsoft edge, the following emulated devices were checked using responsive design:
+-   Galaxy S5
+- iPhone 5/SE
+- iPhone 6/7/8 Plus
+- iPad
+- iPad Pro
+- Nest Hub max
 
-With Chrome and Microsoft edge, the following emulated devices were checked using responsive design
-* Galaxy S5
-* iPhone 5/SE
-* iPhone 6/7/8 Plus
-* iPad
-* iPad Pro
-* Nest Hub max
+The site was also tested on smaller hardware devices which are Tab E and Samsung A12.The header, programs, about and contact were also checked to make sure they fit well on small devices.
+## User stories Testing
+### Site owner
+- To present speech and language programs for children to the public and how it improves them to speak the manner of the classes as well well as the staff. 
+  > Kinder means children, and the images throughout the pages shows the potential customers targeted.
+- Users to easily navigate the site.
+  > The navigation is fixed and consistency in all pages
+- Connect with all the customers including the potential ones
+  > Each page contains social network links easy to find for users
+-  Make sure users find it easy to ask any  questions or give feedback
+  > Users can contact by filling the contact form or rather use social links.
+### New user
+- User is able to find information and mission about the speech and language site.
+  > The user can easily see the mission statement on the homepage
+- User is able to easily find each program description, in detail.
+  > The user can easily navigate to the programs page to find each program's description
+- User is able to find how exactly these programs help them.
+  > Each description also state how exactly it helps a child to speak
+- User can easily contact the owner
+  > The user can navigate to the contact page where they can fill their details and write a message
+### Returning user
+- User can find the classes' timetable.
+  > User to find a page with a timetable for the classes
+- User can find the resources used in class.
+  > User to find supporting resources and structures that facilitates the programs
 
-The site was also tested on smaller devices which are Samsung A51 and Samsung A12.The header, programs, about and contact were also checked to make sure they are easy to understand and navigate. The form was also tested to make sure the submit button works well,all text fields to accept text and email field to only accept emails.
+  
+
+
+
 
 ### Bugs
 I encountered the following bugs while developing the website:
