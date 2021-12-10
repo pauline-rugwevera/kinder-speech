@@ -29,6 +29,19 @@ The reason behind the creation of this website is to present the public with the
 * As a returning user I would want to find a timetable for the classes.
 * As a returning user I would want to find the exact address in case I need to direct someone.
 
+## Surface
+### Colors
+Colors used in this project are:
+* font color: #000
+* background color: #D8E3E7
+* background color(footer): #EDEDED
+* hoover color: #D8E3E7
+* button color: #ffffff
+### Fonts
+* LATO was used for the header
+* Open Sans for main content and sans-serif for backup
+
+
 ## Features
 * The site features a navigation bar making it easier to navigate to any page. 
 * The right side clearly shows to the user the name of the site.
@@ -60,13 +73,24 @@ The reason behind the creation of this website is to present the public with the
 ### Future Features
 * Testimonial page where users can provide testimonies of the services
 ## Technologies
-* HTML
-* CSS
-* Github
-* Github pages
-* Gitpod
-* Google fonts
-* Font awesome
+ HTML
+ * As a structure language to give the site, a structure
+
+ CSS
+ * As a style language 
+
+ Github
+ * Version control
+
+Gitpod
+* As a platform to develop the site
+
+Google fonts
+* As a font library
+
+ Font awesome
+ * For social networks icons
+
 ## Testing
 I tested the website using the following browsers:
 * Chrome
