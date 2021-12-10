@@ -10,16 +10,14 @@ On this website, I also stated the type of programs that Kinder Speech offers to
 ## Site owner's goals
 The reason behind the creation of this website is to present the public with the speech and language programs for children. It shows exactly the types of programs offered to help the children speak, the manner of the classes as well well as the staff. The owner finally presents how users can get in touch about more information.
 ## User goals
-### New user goals:
+### New user goals
 * User is able to find information and mission about the speech and language site.
 * User is able to easily find each program description, in detail.
 * User is able to find how exactly these programs help them.
 * User can easily contact the owner
-
-
-
-
-
+### Returning user goals
+* User can find the classes' timetable.
+* User can find the resources used in class.
 ## User Stories
 ### New users
 * As a first time user of the site, I want to easily tell the mission and purpose of the site.
@@ -27,7 +25,9 @@ The reason behind the creation of this website is to present the public with the
 * As a first time user of the site, I want to read about the programs being offered
 * As a first time user of the site, I want to visit the site's social media links and find out about their following and what other users are saying about them.
 ### Returning users
-* As a returning user I would want to find out if there is a testimonial section
+* As a returning user I would want to find out if there is a testimonial section.
+* As a returning user I would want to find a timetable for the classes.
+* As a returning user I would want to find the exact address in case I need to direct someone.
 
 ## Features
 * The site features a navigation bar making it easier to navigate to any page. 
