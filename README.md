@@ -1,6 +1,8 @@
 
 # KINDER SPEECH
-The site presents Kinder Speech as a Speech and language programs for children. Kinder Speech is designed for parents with children in need of speech, language, articulation, and communication skills which includes Autism Spectrum Disorder,Cerebral Palsy,Autism Spectrum Disorder for educational purposes only.
+The site presents Kinder Speech as a Speech and language programs for children. Kinder Speech is designed for parents with children in need of speech, language, articulation, and communication skills which includes Autism Spectrum Disorder,Cerebral Palsy,Autism Spectrum Disorder.
+
+It has to be noted that this site was developed for educational purposes only.
 
 ![Home page](assets/images/homepage.png)
 # Table of contents
@@ -35,13 +37,13 @@ The site presents Kinder Speech as a Speech and language programs for children. 
 [Link to live website](https://pauline-rugwevera.github.io/kinder-speech/)
 # UX
 ## Site owner's goals
-* To present speech and language programs for children to the public and how it improves them to speak the manner of the classes as well well as the staff. 
-* Users to easily navigate the site
-* Connect with all the customers including the potential ones
-* Make sure users find it easy to ask any  questions or give feedback
+* To present speech and language programs for children to the public and how it improves them to speak, the manner of the classes as well as how equipped the staff is. 
+* Users to easily navigate the site.
+* Connect with all the customers including the potential ones.
+* Make sure users find it easy to ask any  questions or give feedback.
 ## User goals
 ### New user goals
-* User is able to find information and mission about the speech and language site.
+* User is able to find more information about the speech and language site.
 * User is able to easily find each program description, in detail.
 * User is able to find how exactly these programs help them.
 * User can easily contact the owner
@@ -63,7 +65,7 @@ The site presents Kinder Speech as a Speech and language programs for children. 
 Colors used in this project are:
 * font color: #000
 * background color: #D8E3E7
-* background color(footer): #EDEDED
+* footer background color: #EDEDED
 * hoover color: #D8E3E7
 * button color: #ffffff
 ### Fonts
@@ -73,11 +75,11 @@ Colors used in this project are:
 [Back to Table of contents](#table-of-contents)
 
 # Features
-This website consists of 6 pages of which 4 of these can be accessed using the navigation menu, the other 2 are 404 error page and submission confirmation page. The foloowing are the features found on the site:
+This site consists of 6 pages. 4 of these can be accessed using the navigation, the other 2 are 404 error page and submission confirmation page. The following are the features found on the site:
 ### Navigation bar
- The navigation bar feature makes it easier to navigate to any page.The left side shows the logo of the site that can as well be used to navigate to the home page. The right side shows other menu links or pages that can be accessed.
+ The navigation bar feature makes it easier to navigate to any page.The left side shows the logo of the site that can as well be used as a way to navigate to the home page. The right side shows other menu links or pages a user can access.
  #### Navigation
- * Left site of the navigation bar contains a logo that one can use to navigate to the home page
+ * Left site of the navigation bar contains a logo a user can use to navigate to the home page
  * The right side consists of 4 page links  which are:
    - Home
    - Programs
@@ -92,29 +94,29 @@ This website consists of 6 pages of which 4 of these can be accessed using the n
 ![hero-image](assets/images/Screenshot_89.png)
 
 * Mission
-  - The website features a mission section that states to the users the soul purpose of the site as well as the target audience.The manner in which clients are treated as well as the manner of the staff
+  - The website features a mission section that states to the users the soul purpose of the site as well as the target audience.The manner in which classes are conducted and how the staff is equipped.
  
 ![mission](assets/images/Screenshot_88.png)
 ## Programs
 * A programs page with all programs offered and full description of each.
-* Shows three images that describes the type of the program, with a detailed description 
+* Shows three images that describes the type of the program, with a detailed description.
 * Each program clearly shows how it benefits the clients.
 ![programs](assets/images/Screenshot_81.png)
 ![programs](assets/images/Screenshot_82.png)
 
 ## About
-* A page that gives users more information Kinder Speech including things like location and benefits.
+* The about page gives users more information about Kinder Speech, specifying what it is all about, what it offers, the number of years it has existed, why it exists as well as where it is located .
 * Consist of an image on the left side of the page and about information on the right side.
 
 ![About](assets/images/Screenshot_83.png)
 ## Contact
-* Consist of a contct form on the left side of the page and image on the right
-* The form where users can fill in their details and message should they have something to ask or feedback
+* Consist of a contact form on the left side of the page and image on the right.
+* The form where users can fill in their details and message should they have something to ask or give feedback.
 * They will need to fill in their first and last name, email then the message they would want to send and press a submit button.
 
 ![Contact](assets/images/Screenshot_84.png)
 ## Footer
-* A footer that contains social media links for users who would want to follow on social media.
+* A footer that contains social media links for users who would want to follow or connect with the site on social media.
 * It is at the bottom of every page and opens in a seperate browser.
 
 ![Footer](assets/images/Screenshot_87.png)
@@ -128,56 +130,56 @@ This website consists of 6 pages of which 4 of these can be accessed using the n
 
 # Technologies
  HTML
- * As a structure language to give the site, a structure
+ * Used a structure language to give this site a structure
 
  CSS
- * As a style language 
+ * Used as a style language 
 
  Github
- * Version control
+ * Used as Version control
 
 Gitpod
-* As a platform to develop the site
+* Used as a platform to develop the site
 
 Google fonts
-* As a font library
+* Used as a font library
 
  Font awesome
- * For social networks icons
+ * Used for social networks icons
 
  [Back to Table of contents](#table-of-contents)
 
 # Testing
 ### Functionality
-I used Chrome developers tools for development, responsive design and testing was also performed on Microsoft edge
+I used Chrome developers tools for development of this project. Responsive design and testing was also performed on Microsoft edge.
 ### Compatibilty
 With Chrome and Microsoft edge, the following emulated devices were checked using responsive design:
--   Galaxy S5
+- Galaxy S5
 - iPhone 5/SE
 - iPhone 6/7/8 Plus
 - iPad
 - iPad Pro
 - Nest Hub max
 
-The site was also tested on smaller hardware devices which are Tab E and Samsung A12.The header, programs, about and contact were also checked to make sure they fit well on small devices.
+The site was also tested on smaller hardware devices which are Samsung Tab E and Samsung A12.The header, programs, about and contact were also checked to make sure they fit well on small devices.
 ## User stories Testing
 ### Site owner
-- To present speech and language programs for children to the public and how it improves them to speak the manner of the classes as well well as the staff. 
-  > Kinder means children, and the images throughout the pages shows the potential customers targeted.
+-  To present speech and language programs for children to the public and how it improves them to speak, the manner of the classes as well as how equipped the staff is. 
+  > Kinder means children, and the images throughout the pages shows the potential customers targeted, the mission section states the nature of the classes and that of the staff.
 - Users to easily navigate the site.
-  > The navigation is fixed and consistency in all pages
-- Connect with all the customers including the potential ones
-  > Each page contains social network links easy to find for users
--  Make sure users find it easy to ask any  questions or give feedback
+  > The navigation is fixed, clear and consistency on all pages
+- Connect with all the customers including the potential ones.
+  > Each page contains social network links easy to find for users and consistent to all pages.
+-  Make sure users find it easy to ask any questions or give feedback
   > Users can contact by filling the contact form or rather use social links.
 ### New user
-- User is able to find information and mission about the speech and language site.
-  > The user can easily see the mission statement on the homepage
-- User is able to easily find each program description, in detail.
+- User is able to find more information about the speech and language site.
+  > The user can easily see the mission section and about page for more information.
+- User is able to easily find each program description in detail.
   > The user can easily navigate to the programs page to find each program's description
 - User is able to find how exactly these programs help them.
   > Each description also state how exactly it helps a child to speak
-- User can easily contact the owner
+- User can easily contact the owner.
   > The user can navigate to the contact page where they can fill their details and write a message
 ### Returning user
 - User can find the classes' timetable.
@@ -197,7 +199,7 @@ I encountered the following bugs while developing the website:
 
 ### Validator Testing
 * HTML
-  - No errors were found after validating with W3C validator except the homepage with one warning that states that there must be a section heading in the hero container section, which I actually did not intend to put. Check:
+  - No errors were found after validating with W3C validator except the homepage with one forgivable warning that states that there must be a section heading in the hero container section, which I actually did not intend to put. Check:
   - [Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauline-rugwevera.github.io%2Fkinder-speech%2Findex.html)
   - [Programs](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauline-rugwevera.github.io%2Fkinder-speech%2Fprograms.html)
   - [About](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauline-rugwevera.github.io%2Fkinder-speech%2Fabout.html)
