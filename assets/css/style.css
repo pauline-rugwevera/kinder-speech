@@ -309,6 +309,9 @@ p {
     padding-bottom: 15px;
     margin-right: 10px;
   }
+  .programs-header{
+   text-align: center;
+  }
 }
 
 @media screen and (max-width: 535px) {
