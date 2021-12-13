@@ -1,7 +1,6 @@
- 
+
 # KINDER SPEECH
 The site presents Kinder Speech as a Speech and language programs for children. Kinder Speech is designed for parents with children in need of speech, language, articulation, and communication skills which includes Autism Spectrum Disorder,Cerebral Palsy,Autism Spectrum Disorder for educational purposes only.
-
 
 ![Home page](assets/images/homepage.png)
 # Table of contents
@@ -59,7 +58,6 @@ The site presents Kinder Speech as a Speech and language programs for children. 
 * As a returning user I would want to find out if there is a testimonial section.
 * As a returning user I would want to find a timetable for the classes.
 * As a returning user I would want to find the exact address in case I need to direct someone.
-
 ## Surface
 ### Colors
 Colors used in this project are:
@@ -74,7 +72,6 @@ Colors used in this project are:
 
 [Back to Table of contents](#table-of-contents)
 
-
 # Features
 This website consists of 6 pages of which 4 of these can be accessed using the navigation menu, the other 2 are 404 error page and submission confirmation page. The foloowing are the features found on the site:
 ### Navigation bar
@@ -86,7 +83,6 @@ This website consists of 6 pages of which 4 of these can be accessed using the n
    - Programs
    - About
    - Contact
-
 
 ![navigation bar](assets/images/Screenshot_78.png)
 
@@ -105,6 +101,7 @@ This website consists of 6 pages of which 4 of these can be accessed using the n
 * Each program clearly shows how it benefits the clients.
 ![programs](assets/images/Screenshot_81.png)
 ![programs](assets/images/Screenshot_82.png)
+
 ## About
 * A page that gives users more information Kinder Speech including things like location and benefits.
 * Consist of an image on the left side of the page and about information on the right side.
@@ -196,7 +193,8 @@ I encountered the following bugs while developing the website:
 * The form could not perform as expected.
 * There were some missing closing tags.
 
-    However the bugs have been corrected
+ However the bugs have been corrected
+
 ### Validator Testing
 * HTML
   - No errors were found after validating with W3C validator except the homepage with one warning that states that there must be a section heading in the hero container section, which I actually did not intend to put. Check:
@@ -245,7 +243,9 @@ The following websites were used for the research of this project:
  ### Acknowledgements
  * Love Running project for step by step guidance
  * [https://tinypng.com/] for optimising of images
- * [https://www.w3schools.com/] 
+ * [https://www.w3schools.com/] for general understanding
+ * [Codegrepper](https://www.codegrepper.com/) for general css tips and techniques
+ * [CSS tricks](https://css-tricks.com/) for in depth css tricks
  * My Mentor's feedback and guidance
  
  [Back to Table of contents](#table-of-contents)
