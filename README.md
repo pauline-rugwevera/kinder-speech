@@ -72,8 +72,10 @@ Colors used in this project are:
 * LATO was used for the header
 * Open Sans for main content and sans-serif for backup
 
+[Back to Table of contents](#table-of-contents)
 
-## Features
+
+# Features
 This website consists of 6 pages of which 4 of these can be accessed using the navigation menu, the other 2 are 404 error page and submission confirmation page. The foloowing are the features found on the site:
 ### Navigation bar
  The navigation bar feature makes it easier to navigate to any page.The left side shows the logo of the site that can as well be used to navigate to the home page. The right side shows other menu links or pages that can be accessed.
@@ -125,7 +127,9 @@ This website consists of 6 pages of which 4 of these can be accessed using the n
 * Price page
 * Timetable of the classes
 
-## Technologies
+[Back to Table of contents](#table-of-contents)
+
+# Technologies
  HTML
  * As a structure language to give the site, a structure
 
@@ -144,7 +148,9 @@ Google fonts
  Font awesome
  * For social networks icons
 
-## Testing
+ [Back to Table of contents](#table-of-contents)
+
+# Testing
 ### Functionality
 I used Chrome developers tools for development, responsive design and testing was also performed on Microsoft edge
 ### Compatibilty
@@ -202,13 +208,17 @@ I encountered the following bugs while developing the website:
   - No errors were found after checking the css with Jigsaw validator.
   ![css validator](assets/images/Screenshot_77.png)
 
-## Deployment
+  [Back to Table of contents](#table-of-contents)
+
+# Deployment
 Kinder Speech was deployed as follows:
 * Open the repository on GitHub
 * Go to "Settings" (the tab on the right)
 * On the left hand side select "Pages" 
 * Select the "main" branch as the source. Then it shows you a green confirmation "Your site is published at......" with the URL.
-## Credits
+
+[Back to Table of contents](#table-of-contents)
+# Credits
 ### Content
 The following websites were used for the research of this project:
  * https://www.interactivemetronome.com/clients-landing-page/apd
@@ -237,6 +247,8 @@ The following websites were used for the research of this project:
  * [https://tinypng.com/] for optimising of images
  * [https://www.w3schools.com/] 
  * My Mentor's feedback and guidance
+ 
+ [Back to Table of contents](#table-of-contents)
 
 
 
