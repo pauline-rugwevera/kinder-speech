@@ -1,9 +1,37 @@
  
 # KINDER SPEECH
-Kinder Speech website is designed for parents with children in need of speech, language, articulation, and communication skills which includes Autism Spectrum Disorder,Cerebral Palsy,Autism Spectrum Disorder.
-On this website, I also stated the type of programs that Kinder Speech offers to their clients.
+The site presents Kinder Speech as a Speech and language programs for children. Kinder Speech is designed for parents with children in need of speech, language, articulation, and communication skills which includes Autism Spectrum Disorder,Cerebral Palsy,Autism Spectrum Disorder for educational purposes only.
+
 
 ![Home page](assets/images/homepage.png)
+# Table of contents
+* [UX](#ux)
+  - [Site owner's goals](#site-owner's-goals)
+  - [User goals](#user-goals)
+    - [New user goals](#new-user-goals)
+    - [Returning user goals](#returning-user-goals)
+  - [User stories](#user-stories)
+    - [New users](#new-users)
+    - [Returning user](#returning-user)
+  - [Surface](#surface)
+    - [Colors](#colors)
+    - [Fonts](#fonts)
+* [Features](#features)
+  - [Navigation bar](#navigation-bar)
+  - [Home](#home)
+  - [Programs](#programs)
+  - [About](#about)
+  - [Contact](#contact)
+  - [Footer](#footer)
+* [Technologies](#technologies)
+* [Testing](#testing)
+  - [Functionality](#functionality)
+  - [Compatibilty](#compatibilty)
+  - [User stories Testing](#user-stories-testing)
+  - [Bugs](#bugs)
+  - [Validator Testing](#validator-testing)
+* [Deployment](#deployment)
+* [Credits](#credits)
 
 [Link to live website](https://pauline-rugwevera.github.io/kinder-speech/)
 # UX
