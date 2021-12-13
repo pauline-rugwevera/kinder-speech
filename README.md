@@ -164,14 +164,14 @@ With Chrome and Microsoft edge, the following emulated devices were checked usin
 The site was also tested on smaller hardware devices which are Samsung Tab E and Samsung A12.The header, programs, about and contact were also checked to make sure they fit well on small devices.
 ## User stories Testing
 ### Site owner
--  To present speech and language programs for children to the public and how it improves them to speak, the manner of the classes as well as how equipped the staff is. 
+- To present speech and language programs for children to the public and how it improves them to speak, the manner of the classes as well as how equipped the staff is. 
   > Kinder means children, and the images throughout the pages shows the potential customers targeted, the mission section states the nature of the classes and that of the staff.
 - Users to easily navigate the site.
   > The navigation is fixed, clear and consistency on all pages
 - Connect with all the customers including the potential ones.
   > Each page contains social network links easy to find for users and consistent to all pages.
 -  Make sure users find it easy to ask any questions or give feedback
-  > Users can contact by filling the contact form or rather use social links.
+   > Users can contact by filling the contact form or rather use social links.
 ### New user
 - User is able to find more information about the speech and language site.
   > The user can easily see the mission section and about page for more information.
@@ -191,6 +191,7 @@ The site was also tested on smaller hardware devices which are Samsung Tab E and
 I encountered the following bugs while developing the website:
 
 * The hero image was shrinking from screens 1100px wide and below.
+
 * There was too much gap between programs and about images and text.
 * The form could not perform as expected.
 * There were some missing closing tags.
