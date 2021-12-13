@@ -154,11 +154,6 @@ The site was also tested on smaller hardware devices which are Tab E and Samsung
 - User can find the resources used in class.
   > User to find supporting resources and structures that facilitates the programs
 
-  
-
-
-
-
 ### Bugs
 I encountered the following bugs while developing the website:
 
@@ -178,6 +173,7 @@ I encountered the following bugs while developing the website:
 * CSS
   - No errors were found after checking the css with Jigsaw validator.
   ![css validator](assets/images/Screenshot_77.png)
+
 ## Deployment
 Kinder Speech was deployed as follows:
 * Open the repository on GitHub
