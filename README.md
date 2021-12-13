@@ -191,12 +191,9 @@ The site was also tested on smaller hardware devices which are Samsung Tab E and
 I encountered the following bugs while developing the website:
 
 * The hero image was shrinking from screens 1100px wide and below.
-
-* There was too much gap between programs and about images and text.
-* The form could not perform as expected.
-* There were some missing closing tags.
-
- However the bugs have been corrected
+To fix this, I removed the hero container height that was set initially, then set the image height to 50%, width 100%, then position to relative.
+* The form could not perform as expected. It could submit even without the user's message.
+To fix, I added required attribute to the textarea.
 
 ### Validator Testing
 * HTML
