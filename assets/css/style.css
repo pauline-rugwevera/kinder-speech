@@ -299,7 +299,6 @@ p {
   text-align: center;
 }
 
-/* media queries */
 
 @media screen and (max-width: 960px) {
   #menu {
@@ -312,7 +311,7 @@ p {
   }
 }
 
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 525px) {
   #logo {
     margin-left: 15px;
   }
