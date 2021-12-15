@@ -4,7 +4,7 @@ The site presents Kinder Speech as a Speech and language programs for children. 
 
 It has to be noted that this site was developed for educational purposes only.
 
-![Home page](assets/images/homepage.png)
+![Home page](assets/images/Screenshot_95.png)
 # Table of contents
 * [UX](#ux)
   - [Site owner's goals](#site-owner's-goals)
