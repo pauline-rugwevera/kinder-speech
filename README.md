@@ -7,7 +7,7 @@ It has to be noted that this site was developed for educational purposes only.
 ![Home page](assets/images/Screenshot_95.png)
 # Table of contents
 * [UX](#ux)
-  - [Site owner's goals](#site-owner's-goals)
+
   - [User goals](#user-goals)
     - [New user goals](#new-user-goals)
     - [Returning user goals](#returning-user-goals)
