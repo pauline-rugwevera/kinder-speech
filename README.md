@@ -194,6 +194,8 @@ I encountered the following bugs while developing the website:
 To fix this, I removed the hero container height that was set initially, then set the image height to 50%, width 100%, then position to relative.
 * The form could not perform as expected. It could submit even without the user's message.
 To fix, I added required attribute to the textarea.
+* There was white space below the footer on about and contact pages.
+To fix this I used the min-height and calc() function.
 
 ### Validator Testing
 * HTML
