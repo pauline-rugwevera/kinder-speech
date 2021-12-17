@@ -161,7 +161,6 @@ p {
   }
 }
 
-
 #about {
   height: 500px;
   min-height: calc(106vh - 406px);
@@ -368,7 +367,7 @@ p {
   #form-section,
   #thank-you {
     height: fit-content;
-    
+
   }
 
   .form-image {
@@ -389,10 +388,6 @@ p {
     margin: 0 auto;
   }
 }
-
-
-
-
 
 
 @media screen and (max-width: 960px) {
