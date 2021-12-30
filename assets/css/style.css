@@ -288,10 +288,9 @@ p {
 }
 
 #error-page {
-  /* height: 500px; */
   height: 100vh;
   background-color: #D8E3E7;
-  padding-top: 10px;
+  padding: 25px 25px 25px 0;
   clear: both;
 }
 
@@ -381,6 +380,9 @@ p {
   #form-section img,
   #thank-you img {
     width: 100%;
+  }
+  #thank-you > p{
+    margin-left: 74px;
   }
 
   .contact-form {
