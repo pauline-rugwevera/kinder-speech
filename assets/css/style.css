@@ -288,7 +288,8 @@ p {
 }
 
 #error-page {
-  height: 500px;
+  /* height: 500px; */
+  height: 100vh;
   background-color: #D8E3E7;
   padding-top: 10px;
   clear: both;
