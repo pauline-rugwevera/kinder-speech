@@ -268,6 +268,7 @@ p {
 
 #footer {
   height: 150px;
+
   background-color: #EDEDED;
   padding-bottom: 0;
 }
@@ -298,7 +299,7 @@ p {
   text-align: center;
 }
 
-/* media queries */
+
 @media screen and (max-width:1150px) {
   #about {
     height: fit-content;
@@ -381,7 +382,8 @@ p {
   #thank-you img {
     width: 100%;
   }
-  #thank-you > p{
+
+  #thank-you>p {
     margin-left: 74px;
   }
 
